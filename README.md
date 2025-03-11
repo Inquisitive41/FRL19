@@ -10,5 +10,5 @@ A novel machine learning algorithm based on adaptive fractal resonance optimizat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FRL19D.git
+   git clone [https://github.com/yourusername/FRL19D.git](https://github.com/Inquisitive41/FRL19/)
    cd FRL19D
