@@ -1,4 +1,4 @@
-# FRL19Dv2_1: Fractal Resonance Learning v2.1
+# FRL19D Fractal Resonance Learning v2.1
 
 A novel machine learning algorithm based on adaptive fractal resonance optimization. Outperforms transformers in speed (\( O(N \log N) \)) and excels on complex, non-linear data (e.g., NLP, genomics).
 
